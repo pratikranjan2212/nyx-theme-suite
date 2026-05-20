@@ -1,6 +1,7 @@
 {
   "name": "true-dark",
   "displayName": "True Dark",
+  "publisher": "Pratik",
   "description": "True Dark theme ported to VS Code",
   "version": "0.0.1",
   "engines": {
