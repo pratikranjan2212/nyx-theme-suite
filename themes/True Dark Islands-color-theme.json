@@ -112,11 +112,12 @@
       }
     },
     {
-      "name": "Constants",
+      "name": "Constants / Static Fields",
       "scope": [
         "constant.language",
         "constant.character",
-        "support.constant"
+        "support.constant",
+        "variable.other.constant"
       ],
       "settings": {
         "foreground": "#b281eb",
@@ -179,23 +180,13 @@
       }
     },
     {
-      "name": "Variables",
+      "name": "Namespaces & Packages",
       "scope": [
-        "variable",
-        "variable.other"
+        "entity.name.namespace",
+        "entity.name.package"
       ],
       "settings": {
         "foreground": "#78c2b3"
-      }
-    },
-    {
-      "name": "Parameters",
-      "scope": [
-        "variable.parameter"
-      ],
-      "settings": {
-        "foreground": "#78c2b3",
-        "fontStyle": "italic"
       }
     },
     {
