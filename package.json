@@ -1,0 +1,46 @@
+{
+  "name": "true-dark",
+  "displayName": "True Dark",
+  "description": "True Dark theme ported to VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "True Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/True Dark-color-theme.json"
+      },
+      {
+        "label": "True Dark Islands",
+        "uiTheme": "vs-dark",
+        "path": "./themes/True Dark Islands-color-theme.json"
+      },
+      {
+        "label": "True Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/True Black-color-theme.json"
+      },
+      {
+        "label": "True Black Islands",
+        "uiTheme": "vs-dark",
+        "path": "./themes/True Black Islands-color-theme.json"
+      },
+      {
+        "label": "True Light",
+        "uiTheme": "vs",
+        "path": "./themes/True Light-color-theme.json"
+      },
+      {
+        "label": "True Light Islands",
+        "uiTheme": "vs",
+        "path": "./themes/True Light Islands-color-theme.json"
+      }
+    ]
+  }
+}
