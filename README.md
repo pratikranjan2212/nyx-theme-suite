@@ -34,7 +34,7 @@ The extension features **6 distinct theme configurations** designed for maximum 
 
 1. Open **Visual Studio Code**.
 2. Launch the Quick Open console via `Ctrl+P` (or `Cmd+P` on macOS).
-3. Type `ext install nyx` and press **Enter**.
+3. Type `ext install nyxthemesuite` and press **Enter**.
 4. Once installed, activate the theme using `Ctrl+K Ctrl+T` (or `Cmd+K Cmd+T`).
 5. Choose one of the 6 variants:
    - **Nyx Dark**
