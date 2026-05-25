@@ -1,9 +1,14 @@
 {
-  "name": "true-dark",
-  "displayName": "True Dark",
+  "name": "nyx",
+  "displayName": "Nyx",
   "publisher": "Pratik",
-  "description": "True Dark theme ported to VS Code",
+  "description": "A premium, minimalist dark theme suite ported from IntelliJ True Dark, with OLED black and clean light variants.",
   "version": "0.0.1",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pratikranjan2212/true-dark.git"
+  },
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -13,34 +18,34 @@
   "contributes": {
     "themes": [
       {
-        "label": "True Dark",
+        "label": "Nyx Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/True Dark-color-theme.json"
+        "path": "./themes/Nyx Dark-color-theme.json"
       },
       {
-        "label": "True Dark Islands",
+        "label": "Nyx Dark Islands",
         "uiTheme": "vs-dark",
-        "path": "./themes/True Dark Islands-color-theme.json"
+        "path": "./themes/Nyx Dark Islands-color-theme.json"
       },
       {
-        "label": "True Black",
+        "label": "Nyx Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/True Black-color-theme.json"
+        "path": "./themes/Nyx Black-color-theme.json"
       },
       {
-        "label": "True Black Islands",
+        "label": "Nyx Black Islands",
         "uiTheme": "vs-dark",
-        "path": "./themes/True Black Islands-color-theme.json"
+        "path": "./themes/Nyx Black Islands-color-theme.json"
       },
       {
-        "label": "True Light",
+        "label": "Nyx Light",
         "uiTheme": "vs",
-        "path": "./themes/True Light-color-theme.json"
+        "path": "./themes/Nyx Light-color-theme.json"
       },
       {
-        "label": "True Light Islands",
+        "label": "Nyx Light Islands",
         "uiTheme": "vs",
-        "path": "./themes/True Light Islands-color-theme.json"
+        "path": "./themes/Nyx Light Islands-color-theme.json"
       }
     ]
   }
